@@ -1,0 +1,8 @@
+#map {
+    width: 80%; /* Limit width to 80% of parent container */
+    max-width: 600px; /* Maximum width */
+    height: 30vh; /* Responsive height */
+    max-height: 180px; /* Maximum height */
+    margin: 0 auto; /* Center horizontally */
+    display: block; /* Ensure block-level element */
+  }
